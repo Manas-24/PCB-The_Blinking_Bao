@@ -42,5 +42,8 @@
 <img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Blinking_Bao_1.jpg" width = "600">
 </p>
 
-https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Blinking_Bao_Video.mp4
+
+
+https://user-images.githubusercontent.com/56965529/136662402-4ca74567-9cdd-48c8-b50b-b89aaa805283.MOV
+
 
