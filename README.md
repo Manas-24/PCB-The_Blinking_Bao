@@ -17,30 +17,30 @@
 # Circuit Schematic for the Project
 
 <p align="center">
-<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Schematic_Manas_PCB_Design_The%20Blinking%20Bao.png" height = "600">
+<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Schematic_Manas_PCB_Design_The%20Blinking%20Bao.png" >
 </p>
 
 # PCB Design
 
 <p align="center">
-<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_SilkLayer_SS.png" height = "600">
+<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_SilkLayer_SS.png" width = "600">
 </p>
 
 # 3D View of the PCB
 
 <p align="center">
-<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_3D_BackView.png" height = "600">
+<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_3D_BackView.png" width = "600">
 </p>
 
 <p align="center">
-<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_3D_FrontView.png" height = "600">
+<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_3D_FrontView.png" width = "600">
 </p>
 
 # The Blinking Bao in Action (xD)
 
 <p align="center">
-<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Blinking_Bao_1.jpg" height = "600">
+<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Blinking_Bao_1.jpg" width = "600">
 </p>
 
-https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Blinking_Bao_Video.MOV
+https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Blinking_Bao_Video.mp4
 
