@@ -10,8 +10,11 @@
 </p>
 
 # Project Description
-> I am a food vlog enthusiast and I love to learn about various cuisines around the globe. This project basically takes inspiration from the Bao. I have designed the PCB in a shape similar to the Bao with the meat filling and veggies. The USELESS DESIGN COMPETITION comducted by ALLPCB was the perfect chance to showcase this design. 
+> I am a food vlog enthusiast and I love to learn about various cuisines around the globe. This project basically takes inspiration from the Bao. I have designed the PCB in a shape similar to the Bao with the meat filling and veggies. The USELESS DESIGN COMPETITION conducted by ALLPCB was the perfect chance to showcase this design. 
+
 > The circuit basically consists of LEDs which represent the meat, greens and veggies. The circuit runs on a 9V power supply and has a Timer IC 555 which controls the blinking of LEDs. I have designed the circuit such  that the value of the time constant equals 1 second. Thus, the LEDs remain in ON state for a time period of 1 second and then in the OFF state for another 1 second. The values of the capacitor and resistor can be varied so as to achieve various time constants and hence, change the frequency at which the LED blinks. 
+
+
 > The entire design of the PCB was done on EasyEDA Online PCB Design Tool. After the design was complete, I ordered the PCB from ALLPCB. ALLPCB is a very renowned PCB Manufacturer and provides excellent quality PCBs at a very low cost. 
 
 # Circuit Schematic for the Project
