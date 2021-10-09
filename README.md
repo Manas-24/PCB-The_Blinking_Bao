@@ -6,7 +6,7 @@
 <img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Bao%20buns.jpg">
 </p>
 <p align="center">
-<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Bao%20buns_2.jpg">
+<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Bao%20buns_2.jpg" width = "600" height = "600"> 
 </p>
 
  
