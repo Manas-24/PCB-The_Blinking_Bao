@@ -39,12 +39,24 @@
 <img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_3D_FrontView.png" width = "600">
 </p>
 
+# Images of the Actual PCB
+
+<p align="center">
+<img src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_Actual_Front.jpg" width="300"/> <img src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_Actual_Back.jpg" width="300"/> 
+</p>
+
+<p align="center">
+<img src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_Soldered_Back.jpg" width="300"/> <img src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_ON.jpg" width="300"/> 
+</p>
+
 # The Blinking Bao in Action (xD)
 
 <p align="center">
 <img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Blinking_Bao_1.jpg" width = "600">
 </p>
 
+
+https://user-images.githubusercontent.com/56965529/137179856-4e64b54d-0e19-4600-b9dd-6c193420f382.MOV
 
 
 https://user-images.githubusercontent.com/56965529/136662402-4ca74567-9cdd-48c8-b50b-b89aaa805283.MOV
