@@ -38,7 +38,7 @@
 # Images of the Actual PCB
 
 <p align="center">
-<img src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_Actual_Front.jpg" width="300"/> <img src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_Actual_Back.jpg" width="300"/> 
+<img src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_Actual_Back.jpg" width="300"/>  <img src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_Actual_Front.jpg" width="300"/> 
 </p>
 
 <p align="center">
