@@ -46,13 +46,13 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_Soldered_Back.jpg" width="300"/> <img src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_ON.jpg" width="300"/> 
+<img src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_Soldered_Back.jpg" width="300"/>  
 </p>
 
 # The Blinking Bao in Action (xD)
 
 <p align="center">
-<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Blinking_Bao_1.jpg" width = "600">
+<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/Blinking_Bao_1.jpg" width = "300"> <img src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_ON.jpg" width="300"/>
 </p>
 
 
