@@ -32,11 +32,7 @@
 # 3D View of the PCB
 
 <p align="center">
-<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_3D_BackView.png" width = "600">
-</p>
-
-<p align="center">
-<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_3D_FrontView.png" width = "600">
+<img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_3D_BackView.png" width = "300"> <img align="center" src="https://github.com/Manas-24/PCB---The-Blinking-Bao/blob/main/PCB_3D_FrontView.png" width = "300">
 </p>
 
 # Images of the Actual PCB
